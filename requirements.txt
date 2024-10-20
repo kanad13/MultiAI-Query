@@ -1,0 +1,7 @@
+ipykernel
+mistralai
+openai
+azure-ai-inference
+groq
+python-dotenv
+google-generativeai
